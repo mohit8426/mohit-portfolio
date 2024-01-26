@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.7111ebd7.css",
-    "main.js": "/mohit-portfolio/static/js/main.89dd516e.js",
+    "main.css": "/mohit-portfolio/static/css/main.0a0e8bed.css",
+    "main.js": "/mohit-portfolio/static/js/main.fb9b5cb0.js",
     "static/js/787.0a9ec2d8.chunk.js": "/mohit-portfolio/static/js/787.0a9ec2d8.chunk.js",
     "static/media/OCR.png": "/mohit-portfolio/static/media/OCR.707feadebdb627ac90b8.png",
     "static/media/back.png": "/mohit-portfolio/static/media/back.98d60c4b8eb06e60c25b.png",
@@ -14,12 +14,12 @@
     "static/media/sppu.jpg": "/mohit-portfolio/static/media/sppu.715a48eb2b0f3a9cd901.jpg",
     "static/media/SQL.png": "/mohit-portfolio/static/media/SQL.f829436f835503715699.png",
     "index.html": "/mohit-portfolio/index.html",
-    "main.7111ebd7.css.map": "/mohit-portfolio/static/css/main.7111ebd7.css.map",
-    "main.89dd516e.js.map": "/mohit-portfolio/static/js/main.89dd516e.js.map",
+    "main.0a0e8bed.css.map": "/mohit-portfolio/static/css/main.0a0e8bed.css.map",
+    "main.fb9b5cb0.js.map": "/mohit-portfolio/static/js/main.fb9b5cb0.js.map",
     "787.0a9ec2d8.chunk.js.map": "/mohit-portfolio/static/js/787.0a9ec2d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7111ebd7.css",
-    "static/js/main.89dd516e.js"
+    "static/css/main.0a0e8bed.css",
+    "static/js/main.fb9b5cb0.js"
   ]
 }
